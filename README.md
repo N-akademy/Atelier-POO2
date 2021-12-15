@@ -1,6 +1,6 @@
 # Travaux d'Héraclès #2 : le sanglier d'Érymanthe
  
-Prérequis : cloner ce repository.
+Project fini
  
 ## État des lieux du projet
  
